@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cycle Final
+* source:	https://sketchfab.com/3d-models/cycle-final-23e37886506d4032b9b26dfd4bce140d
+* author:	Jishnu.com (https://sketchfab.com/Jishnu.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cycle Final" (https://sketchfab.com/3d-models/cycle-final-23e37886506d4032b9b26dfd4bce140d) by Jishnu.com (https://sketchfab.com/Jishnu.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
